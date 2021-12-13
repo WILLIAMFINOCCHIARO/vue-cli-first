@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  name: "Hero",
+  name: "hero",
 };
 </script>
 
@@ -13,5 +13,7 @@ export default {
 <style scoped>
 #hero {
   background-color: red;
+  width: 100%;
+  height:200px;
 }
 </style>
